@@ -5,7 +5,7 @@ const Main = () => {
     return (
         <div className='bg2 mb-[120px]'>
             <div className="main1">
-                <h1 className='w-[984px] font text-white text-center m-auto mt[210px]'>Journey with Confidence <span className='color2'>Migrate</span> with Us</h1>
+                <h1 className='w-[984px] font text-white text-center m-auto mt[210px] font-bold'>Journey with Confidence <span className='color2 font font-bold'>Migrate</span> with Us</h1>
                 <p className='w-[520px] m-auto text-white mb-8'>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet rcus nunc. Duis egestas ac ante sed tincidunt.
                 </p>
